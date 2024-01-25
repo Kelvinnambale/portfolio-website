@@ -519,6 +519,8 @@ a.btn:nth-child(2)::before{
     .portfolio-container{
       grid-template-columns: repeat(1fr);
     }
+    .skills-container{
+      grid-template-columns: repeat(1fr);
 }
 @media (max-width: 458px){
     html{
