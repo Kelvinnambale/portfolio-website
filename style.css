@@ -505,7 +505,7 @@ a.btn:nth-child(2)::before{
     .skills h2{
       margin-bottom: 3rem;
     }
-    .skills-container{
+    .skills-box{
       grid-template-columns: repeat(2, 1fr);
     }
     .portfolio h2{
@@ -519,7 +519,7 @@ a.btn:nth-child(2)::before{
     .portfolio-container{
       grid-template-columns: repeat(1fr);
     }
-    .skills-container{
+    .skills-box{
       grid-template-columns: repeat(1fr);
 }
 @media (max-width: 458px){
